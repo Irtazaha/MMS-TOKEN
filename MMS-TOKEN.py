@@ -4,9 +4,7 @@
 # made with love by DulLah (https://github.com/dz-id)
 
 import requests, re
-
-logo=
-MMS TOOL  
+ 
 print('\n** < GET FB ACCESS TOKEN FROM COOKIE > **\n')
 cookie = input('* Cookie? : ')
 try:
